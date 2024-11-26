@@ -8,7 +8,7 @@
     "pushArgs": ["--follow-tags", "-u"]
   },
   "npm": {
-    "versionArgs": ["--sign-git-tag=true"]
+    "publish": false
   },
   "github": {
     "release": true,
