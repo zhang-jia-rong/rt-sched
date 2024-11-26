@@ -457,3 +457,16 @@ dist
 .svelte-kit
 
 # End of https://www.toptal.com/developers/gitignore/api/node
+
+# Zotero citation export default bibliography file (zotero-cite.defaultBibName setting)
+ref.bib
+
+# Generated PDF output from LaTeX compilation
+main.pdf
+
+# Git-secret encrypted files and configuration
+# main.tex is encrypted and its plain version is ignored
+# *.secret files are tracked while random_seed is ignored for security
+.gitsecret/keys/random_seed
+!*.secret
+main.tex
