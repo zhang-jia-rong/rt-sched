@@ -1,5 +1,7 @@
 # Changelog
 
+## 2024.11.0 (2024-11-28)
+
 ## 2024.11.0-rc.0 (2024-11-28)
 
 * :art: Configure development tooling and linting ([0cd0534](https://github.com/zhang-jia-rong/rt-sched/commit/0cd0534))
