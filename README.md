@@ -64,9 +64,9 @@ The watch mode (`-pvc`) is particularly useful during development as it automati
 
 The build process generates several files that serve different purposes in the document compilation:
 
-- [main.pdf](main.pdf) is the final output document containing your research paper with all formatting, figures, and references properly rendered
-- [main.bbl](main.bbl) contains the processed bibliography entries from your BibTeX database, formatted according to the GB/T 7714 citation style
-- [main.aux](main.aux) stores cross-referencing information, keeping track of section numbers, figure labels, and citation keys
+- `main.pdf` is the final output document containing your research paper with all formatting, figures, and references properly rendered
+- `main.bbl` contains the processed bibliography entries from your BibTeX database, formatted according to the GB/T 7714 citation style
+- `main.aux` stores cross-referencing information, keeping track of section numbers, figure labels, and citation keys
 
 These files work together to produce a properly formatted academic document with working cross-references and citations.
 

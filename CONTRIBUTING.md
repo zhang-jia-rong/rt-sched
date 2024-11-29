@@ -39,21 +39,21 @@ Use the present tense ("Add feature" not "Added feature") and imperative mood ("
 
 When committing changes, consider prefixing your message with one of these emoji to indicate the type of change:
 
-🎨 :art: Improve code format/structure<br />
-🐎 :racehorse: Improve performance<br />
-🚱 :non-potable_water: Fix memory leaks<br />
-📝 :memo: Update documentation<br />
-🐧 :penguin: Fix Linux-specific issue<br />
-🍎 :apple: Fix macOS-specific issue<br />
-🏁 :checkered_flag: Fix Windows-specific issue<br />
-🐛 :bug: Fix a bug<br />
-🔥 :fire: Remove code/files<br />
-💚 :green_heart: Fix CI build<br />
-✅ :white_check_mark: Add tests<br />
-🔒 :lock: Security updates<br />
-⬆️ :arrow_up: Upgrade dependencies<br />
-⬇️ :arrow_down: Downgrade dependencies<br />
-👕 :shirt: Fix linter warnings<br />
+🎨 `:art:` Improve code format/structure<br />
+🐎 `:racehorse:` Improve performance<br />
+🚱 `:non-potable_water:` Fix memory leaks<br />
+📝 `:memo:` Update documentation<br />
+🐧 `:penguin:` Fix Linux-specific issue<br />
+🍎 `:apple:` Fix macOS-specific issue<br />
+🏁 `:checkered_flag:` Fix Windows-specific issue<br />
+🐛 `:bug:` Fix a bug<br />
+🔥 `:fire:` Remove code/files<br />
+💚 `:green_heart:` Fix CI build<br />
+✅ `:white_check_mark:` Add tests<br />
+🔒 `:lock:` Security updates<br />
+⬆️ `:arrow_up:` Upgrade dependencies<br />
+⬇️ `:arrow_down:` Downgrade dependencies<br />
+👕 `:shirt:` Fix linter warnings<br />
 
 ## Questions?
 
