@@ -459,7 +459,7 @@ dist
 # End of https://www.toptal.com/developers/gitignore/api/node
 
 # Zotero citation export default bibliography file (zotero-cite.defaultBibName setting)
-ref.bib
+ref.bib*
 
 # Generated PDF output from LaTeX compilation
 main.pdf
