@@ -1,5 +1,10 @@
 # Changelog
 
+## <small>2024.11.1-rc.0 (2024-11-29)</small>
+
+* :memo: Add project guidelines and dev configs ([bff470f](https://github.com/zhang-jia-rong/rt-sched/commit/bff470f))
+* Streamline release-it branch merging ([c11c50a](https://github.com/zhang-jia-rong/rt-sched/commit/c11c50a))
+
 ## 2024.11.0 (2024-11-28)
 
 ## 2024.11.0-rc.0 (2024-11-28)
