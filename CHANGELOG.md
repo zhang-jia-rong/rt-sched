@@ -1,5 +1,7 @@
 # Changelog
 
+## <small>2024.11.1 (2024-11-29)</small>
+
 ## <small>2024.11.1-rc.1 (2024-11-29)</small>
 
 * :green_heart: Fix release-it branch merges ([72f8004](https://github.com/zhang-jia-rong/rt-sched/commit/72f8004))
